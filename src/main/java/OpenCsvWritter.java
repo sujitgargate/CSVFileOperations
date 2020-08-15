@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class OpenCsvWritter {
-   private static final String OBJECT_LIST_SAMPLE = "C:\\Users\\sujit\\Desktop\\Felloship\\OpenSourceLibraries\\src\\main\\resources\\testCSV.csv";
+   private static final String OBJECT_LIST_SAMPLE = "C:\\Users\\sujit\\Desktop\\Felloship\\OpenSourceLibraries\\src\\main\\resources\\outputCSV.csv";
 
    public static void main(String[] args) throws IOException,
            CsvDataTypeMismatchException,
